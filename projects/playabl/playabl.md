@@ -1,12 +1,13 @@
 ### An android and Iphone football game
 
-After finishing the [founders and coders](http://www.foundersandcoders.com/) I started building a prototype for a company called [Muduno](http://www.muduno.com/).
+After working at founders and coders for a few months on various projects I decided to go into contracting to gain a bit of experience working in a larger team.
 
-Muduno are involved in using augmented reality and outdoor media to optimize outdoor advertising. The tool that we built them was a prototype for the business's side. The main objective was to create an enjoyable medium for businesses to view data related to particular advertisements.
+At Playabl I was involved in building a android and iphone game in JavaScript, html and css using Cordova. The game, Predictabl, is an exclusive prediction game for clubs including Monoco, Wolves and many more.
 
 ### Landing Page
 
-![](landing-page.jpg)
+
+![](landing-page.jpg )
 
 ### Join A League
 
