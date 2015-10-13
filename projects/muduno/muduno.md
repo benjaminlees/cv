@@ -14,5 +14,5 @@ Unfortunately due to privacy reasons I am only able to show the landing page for
 - Angular.js
 - Node.js
 - D3.js
-- Jasmine
-- Karma
+- Jasmine (testing)
+- Karma (testing)
