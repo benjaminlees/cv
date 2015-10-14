@@ -22,6 +22,7 @@ I have a Masters in civil engineering, and I enjoy solving real world problems u
 ---
 ### PROJECTS
 
-- [Muduno](projects/muduno/muduno.md)
-- [Playabl](projects/playabl/playabl.md)
-- [Carrier Pigeon](projects/carrier-pigeon/carrier-pigeon.md)
+- [Data Visualization](projects/muduno/muduno.md)
+- [Phone App](projects/playabl/playabl.md)
+- [Freight Management System](projects/carrier-pigeon/carrier-pigeon.md)
+- [Business Mapping Tool](projects/business-map/business-map.md)
