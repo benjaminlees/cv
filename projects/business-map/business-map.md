@@ -20,4 +20,4 @@ The project is not yet finished so the images are not fully representative of th
 - Hapi.js
 - Jade
 - Bootstrap
-- Lab and QUnit for testing
+- Lab and QUnit (testing)
