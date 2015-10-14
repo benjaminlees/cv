@@ -44,4 +44,4 @@ I have a Masters in Civil Engineering, and I enjoy solving real world problems u
 - Science Fiction
 - Sports - I play both rugby and squash
 - Technology - I am a technophile; I especially love voice activated devices, augmented reality and wearable solar cells.
-- Going out to the theatre, and researching and eating at obscure BYOBs in London.
+- Going out to the theatre, researching and eating at obscure BYOBs in London.
