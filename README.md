@@ -8,7 +8,7 @@ I have a Masters in Civil Engineering, and I enjoy solving real world problems u
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
-| c#        | React.js             | Jest      | npm          | MongoDB   |
+| C#        | React.js             | Jest      | npm          | MongoDB   |
 | HTML5     | Bootstrap            | QUnit     | gulp         | Redis     |
 | CSS3      | jQuery               | Lab       | AWS          | |
 | SQL       | Leaflet.js           | Mocha     | Heroku       | |
@@ -22,8 +22,8 @@ I have a Masters in Civil Engineering, and I enjoy solving real world problems u
 ---
 ### Employment History
 ##### Founders & Coders – Full Stack Developer 10/2014 - 10/2015
-At Founders & Coders I was a taught, acted as a mentor, worked as a developer and dealt with clients on a daily basis. Below is a list of all the projects that I was involved in.
-- [Data Visualization](projects/muduno/muduno.md)
+At Founders & Coders I was a teacher, acted as a mentor, worked as a developer and dealt with clients on a daily basis. Below is a list of all the projects that I was involved in.
+- [Data Visualisation](projects/muduno/muduno.md)
 - [Phone App](projects/playabl/playabl.md)
 - [Freight Management System](projects/carrier-pigeon/carrier-pigeon.md)
 - [Business Mapping Tool](projects/business-map/business-map.md)
