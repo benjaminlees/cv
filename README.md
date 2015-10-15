@@ -50,8 +50,4 @@ At Founders & Coders I was a teacher, acted as a mentor, worked as a developer a
 - Science Fiction
 - Sports - I play both rugby and squash
 - Technology - I am a technophile; I especially love voice activated devices, augmented reality and wearable solar cells.
-<<<<<<< HEAD
 - Going out to the theatre,researching and eating at obscure BYOBs in London.
-=======
-- Going out to the theatre, researching and eating at obscure BYOBs in London.
->>>>>>> a500b93b692bf775f7c795b1adbb1a318a2cb597
