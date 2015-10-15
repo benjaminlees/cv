@@ -39,7 +39,7 @@ At Founders & Coders I was a teacher, acted as a mentor, worked as a developer a
 - Group design projects - Compulsory every year, these involved communication, organisation and  the use of design software such as CAD, Revit as well as the modelling software Robot.
 
 ### Projects
-- [Es6 in accordance with Douglas Crockford](https://github.com/benjaminlees/Es6)
+- [ES6 in accordance with Douglas Crockford](https://github.com/benjaminlees/Es6)
 - [Redux Example](https://github.com/rjmk/reducks)
 
 ### Links
