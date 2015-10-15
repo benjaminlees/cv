@@ -40,7 +40,7 @@ At Founders & Coders I was a teacher, acted as a mentor, worked as a developer a
 
 ### Projects
 - [Es6 in accordance with Douglas Crockford](https://github.com/benjaminlees/Es6)
-- [Redux Ecample](https://github.com/rjmk/reducks)
+- [Redux Example](https://github.com/rjmk/reducks)
 
 ### Links
 - [Linkedin](https://uk.linkedin.com/pub/benjamin-lees/58/75/162)
