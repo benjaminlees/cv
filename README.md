@@ -52,8 +52,5 @@ At Founders & Coders I was a teacher, acted as a mentor, worked as a developer a
 - Technology - I am a technophile; I especially love voice activated devices, augmented reality and wearable solar cells.
 - Going out to the theatre,researching and eating at obscure BYOBs in London.
 
-|Languages|Frameworks / Libraries | Testing | Tools / Others | Databases|
-|:---------:|:--------------------:|:---------:|:-------------:|:--------------:|
- |Javascript|jQuery| Tape | Git | Redis
  |Node.js| | QUnit | Heroku | |
  |HTML5| | | | |
